@@ -1,0 +1,27 @@
+form{
+    margin: 50px;
+}
+.transparent-input {
+    background-color: rgba(0, 0, 0, 0.01);
+    border:none;
+ }
+ .page-holder {
+    min-height: 100vh;
+  }
+  
+  .bg-cover {
+    background-size: cover !important;
+  }
+.Slogan{
+    height:200px;width: 100%;margin: 0;border: 0;padding: 0;
+}
+
+.button{ 
+    margin-left: 45%; 
+    } 
+
+.bs-example{
+        margin: 20px;
+        position: absolute;
+        top: 0; right: 0;
+    }
